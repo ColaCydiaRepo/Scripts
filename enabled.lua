@@ -1,1 +1,1 @@
-true
+local isEnabled = true

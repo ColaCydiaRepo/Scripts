@@ -1,2 +1,1 @@
-local isEnabled = true
-print(isEnabled)
+tostring(true)
